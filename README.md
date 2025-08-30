@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hello!!!, My Name is Fitra Maulana, i am a Web developer
+💻 Junior Web Developer | 🚀 Belajar & Berkarya  
+
+Aku percaya kode bukan sekadar baris teks, tapi solusi nyata untuk bisnis dan manusia.  
+Saat ini aku fokus membangun aplikasi web modern menggunakan **JavaScript, Next.js, Laravel, dan Python**.  
 
 
 ## 🌐 Socials:
