@@ -1,8 +1,8 @@
 # 💫 About Me:
 💻 Junior Web Developer | 🚀 Belajar & Berkarya  
 
-Aku percaya kode bukan sekadar baris teks, tapi solusi nyata untuk bisnis dan manusia.  
-Saat ini aku fokus membangun aplikasi web modern menggunakan **JavaScript, Next.js, Laravel, dan Python**.  
+Hanya Seorang yang berlulusan SMK Rekayasa Perangkat Lunak 
+yang sekarang bekerja disebuah Rumah Makan yang akan terus Belajar dan Belajar 
 
 
 ## 🌐 Socials:
