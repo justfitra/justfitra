@@ -2,7 +2,8 @@
 💻 Junior Web Developer | 🚀 Belajar & Berkarya  
 
 Hanya Seorang yang berlulusan SMK Rekayasa Perangkat Lunak 
-yang sekarang bekerja disebuah Rumah Makan yang akan terus Belajar dan Belajar 
+yang sekarang bekerja disebuah Rumah Makan yang akan terus Belajar dan Belajar.
+Membangun karier dari otodidak menuju Fullstack Engineer
 
 
 ## 🌐 Socials:
