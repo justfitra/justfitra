@@ -1,9 +1,8 @@
 # About Me:
 **Junior Web Developer**  
 
-Hanya Seorang yang berlulusan SMK Rekayasa Perangkat Lunak 
-yang sekarang bekerja disebuah Rumah Makan yang akan terus Belajar dan Belajar.
-Membangun karier dari otodidak menuju Fullstack Engineer
+Just an SMK graduate in Software Engineering, currently working at a small restaurant, who refuses to stop learning. Building a career from self-taught beginnings toward becoming a Fullstack Engineer.
+
 
 
 # Socials:
