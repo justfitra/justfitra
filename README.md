@@ -4,7 +4,6 @@
 Just an SMK graduate in Software Engineering, currently working at a small restaurant, who refuses to stop learning. Building a career from self-taught beginnings toward becoming a Fullstack Engineer.
 
 
-
 # Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@justfitra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@justngoding) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@justfitra) 
 
