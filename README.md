@@ -5,6 +5,8 @@ Just an SMK graduate in Software Engineering, currently working at a small resta
 
 # Stack:
 **Front End** : React Js, Tailwind Css, Bootstrap.
+
 **Back End** : Node Js, Express Js, Laravel.
+
 **DevOps** : Docker, GitHub.
 
