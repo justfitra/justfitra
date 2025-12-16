@@ -3,7 +3,8 @@
 
 Just an SMK graduate in Software Engineering, currently working at a small restaurant, who refuses to stop learning. Building a career from self-taught beginnings toward becoming a Fullstack Engineer.
 
-# Stack:
+Currently exploring:
+
 **Front End** : React Js, Tailwind Css, Bootstrap. </br>
 **Back End** : Node Js, Express Js, Laravel. </br>
 **DevOps** : Docker, GitHub.
